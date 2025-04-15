@@ -1,4 +1,4 @@
-# Azure Open AI の体験
+# Azure Open AI の入門ハンズオン
 
 ## 概要
 Azure Open AI でAIモデルのデプロイや利用を通じて
@@ -8,7 +8,8 @@ Azure Open AI でAIモデルのデプロイや利用を通じて
 
 ## 目的
 
-Azure Open AI の体験
+Azure Open AI の入門<br>
+関連するAI情報、Microsoft情報の習得<br>
 
 <br>
 
