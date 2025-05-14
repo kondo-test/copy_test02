@@ -55,9 +55,12 @@ Azure Open AI の入門<br>
 
 - [**Visual Studio Code**](https://code.visualstudio.com/)
 
+    - [**REST Client 拡張**](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) （演習3で使用）
+
+<!--
     Visual Studio Code から Azure のリソースを作成するための以下の拡張もインストールしてください。
     - [Azure Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)
-
+-->
 
 - [**Node.js**](https://nodejs.org/ja/)
 
@@ -70,6 +73,13 @@ Azure Open AI の入門<br>
     - [**nvm-windows のインストール**](https://learn.microsoft.com/ja-jp/windows/dev-environment/javascript/nodejs-on-windows#install-nvm-windows-nodejs-and-npm)
 
     - [**nvm のインストール**](https://learn.microsoft.com/ja-jp/windows/dev-environment/javascript/nodejs-on-wsl#install-nvm-nodejs-and-npm)
+
+- WSLのインストール
+  - curlコマンド実行のためWSLのインストール（PCの再起動が求められることがあります）
+  - ターミナル画面、あるいはコマンドライン画面を表示し、以下のコマンドを実行して WSL をインストールしてください。
+  ```powershell
+  wsl --install
+  ```
 
 ## 演習
 
